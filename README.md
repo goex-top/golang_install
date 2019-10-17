@@ -88,8 +88,3 @@ chmod +x ./goinstall.sh  //切记 一定要首先给goninstall.sh运行权限 �
 
 [简体中文](https://github.com/beaquant/golang_install/blob/master/golang/README.md)
 
-------
-
-*Please report bugs, concerns, suggestions by issues, or join QQ 962310113to discuss problems around source code.* 
-
-[出自于letseeqiji](https://github.com/letseeqiji/oneinstall)
